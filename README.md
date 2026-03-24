@@ -1,22 +1,15 @@
-# pythone_01
+    # pythone_01
 
-## Description
-Intermediate Python practice with data structures, files, and modules.
+    Intermediate Python practice covering data structures, file I/O, and simple modules.
 
-## Features
-- Exercises on lists, dicts, file I/O, and modularization.
+    ## Contents
+    - Lists/dicts/sets operations, comprehension usage.
+    - Reading/writing text files; basic error handling.
+    - Modularization and simple scripts.
 
-## Technologies Used
-- Python.
+    ## Usage
+    - Requires Python 3.
+    - Run: `python3 file.py` for the targeted exercise.
 
-## Installation
-- Ensure Python 3 is installed.
-
-## Usage
-- `python3 file.py` for a specific exercise.
-
-## Example
-- Process a text file and report counts.
-
-## Author
-- Oualid Obbad (@oualidobbad)
+    ## Author
+    Oualid Obbad (@oualidobbad)
